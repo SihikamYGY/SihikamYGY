@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some Expert person (idk)
 - 📫 How to reach me just gmail me or you can add my discord hikamm#4880
 - 😄 Pronouns: Don't Trust Anyone, Even Salt Like Sugar
-- ⚡ Fun fact: i'am Binaqurani IBS Student
+- ⚡ Fun fact: i'am Binaqurani IBS Student but in Junior High School
 
 <!---
 SihikamYGY/SihikamYGY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
