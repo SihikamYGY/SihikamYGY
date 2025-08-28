@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SihikamYGY
 - 👀 I’m interested in Website Developmet
-- 🌱 I’m currently learning JS, PHP, mySql, laravel, and react
+- 🌱 I’m currently learning JS, PHP, mySql, laravel 11, and React
 - 💞️ I’m looking to collaborate on some Expert person (idk)
 - 📫 How to reach me just gmail me or you can add my discord hikamm#4880
 - 😄 Pronouns: Don't Trust Anyone, Even Salt Like Sugar
