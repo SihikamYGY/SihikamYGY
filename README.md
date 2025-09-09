@@ -23,12 +23,11 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SihikamYGY&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SihikamYGY&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/USERNAME_ANDA)  
-- 🌍 [Portfolio](https://yourportfolio.com)  
-- 📧 Email: youremail@example.com
+- 🌍 [Portfolio]([https://yourportfolio.com](https://sihikamygy.github.io/portofolio-idn/))  
+- 📧 Email: roisulhikamidn@example.com
