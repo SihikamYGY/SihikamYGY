@@ -1,15 +1,15 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-## 👋 Hi, I'm Roisul Hikam  
+## 👋 Yoww Coder!!, I'm Roisul Hikam  
 
 💻 Web Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer  
 
 ---
 
 ### ⚡ About Me
-- 🌱 Selalu belajar hal baru di dunia programming  
-- 💡 Tertarik dengan open-source dan kolaborasi  
-- 🎯 Fokus di **Laravel**, **React**, dan **TailwindCSS**
+- 🌱 Always learn new things  
+- 💡 Interested in open-source and collaboration 
+- 🎯 Focus on **Laravel**, **React**, and **TailwindCSS**
 
 ---
 
